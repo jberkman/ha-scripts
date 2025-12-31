@@ -50,11 +50,11 @@ This single sensor is exported to HomeKit and used to control the *real* thermos
 
 These scripts generate YAML into standard HA include directories:
 
-\`\`\`
+```
 /config/input_booleans/ha-scripts.yaml
 /config/climates/ha-scripts.yaml
 /config/templates/ha-scripts.yaml
-\`\`\`
+```
 
 Home Assistant must have:
 
